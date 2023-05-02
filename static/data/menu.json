@@ -19,6 +19,5 @@
         "label": "US Population Table",
         "link": "/api/rules/us_population",
         "type": "table"
-        
     }
 ]
