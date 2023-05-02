@@ -1,0 +1,24 @@
+ [
+    {
+        "label": "About",
+        "link": "/api/rules/about",
+        "type": "text",
+        "param": {
+            "fontSize": "30px"
+        }
+    },
+    {
+        "label": "US Population Chart",
+        "link": "/api/rules/us_population",
+        "type": "chart",
+        "param": {
+            "fill": "red"
+        }
+    },
+    {
+        "label": "US Population Table",
+        "link": "/api/rules/us_population",
+        "type": "table"
+        
+    }
+]
